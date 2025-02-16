@@ -1,30 +1,12 @@
 # Deek-Seek-Chatbot-with-Ollama
 
+-------------------------------------------------------------------------------------------------------------
 
 🤖 Create Your Own FREE AI Chatbot with DeepSeek R1 &amp; Ollama | Local &amp; Private
+-------------------------------------------------------------------------------------------------------------
 
 
-🔑 Key Features:
-Free to use
-
-
-100% local processing
-
-
-No cloud dependency
-
-
-Enhanced privacy
-
-
-Powerful reasoning capabilities
-
-
-Stream responses in real-time
-
-
-Easy-to-follow Python implementation
-
+##############################################################
 
 
  ❁Requirements:
@@ -62,7 +44,9 @@ Copy the provided code
 
 Run the application
 
+###############################################################
 
+---------------------------------------------------------------
 💡 Use Cases:
 
 
@@ -79,3 +63,31 @@ Local development
 
 
 Private AI applications 
+
+---------------------------------------------------------------
+
+🔑 Key Features:
+
+
+Free to use
+
+
+100% local processing
+
+
+No cloud dependency
+
+
+Enhanced privacy
+
+
+Powerful reasoning capabilities
+
+
+Stream responses in real-time
+
+
+Easy-to-follow Python implementation
+
+---------------------------------------------------------------
+
