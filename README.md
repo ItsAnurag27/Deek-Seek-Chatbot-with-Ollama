@@ -12,23 +12,23 @@ Easy-to-follow Python implementation
  ❁Requirements:
 
 Ollama for Windows/mac/linux
-Ollama:-https://ollama.com/ ,
+Ollama:-https://ollama.com/ 
 Python
-Link:-https://www.python.org/downloads/ ,
-pip install gradio ollama
+Link:-https://www.python.org/downloads/ 
+pip install gradio ollama 
 
 ⚡ Quick Start:
 
 Download Ollama
-Run: ollama pull deepseek-r1 ,
-Install required packages ,
-Copy the provided code ,
+Run: ollama pull deepseek-r1 /n 
+Install required packages 
+Copy the provided code 
 Run the application
 
 💡 Use Cases:
 
-Complex task completion,
-Essay writing ,
-Email rewriting ,
-Local development ,
+Complex task completion
+Essay writing 
+Email rewriting 
+Local development 
 Private AI applications 
